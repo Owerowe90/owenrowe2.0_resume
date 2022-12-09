@@ -39,7 +39,7 @@ General Education
 
 
 `October 2020 - March 2021`
-### _Premier Diagnostics _
+### _Premier Diagnostics_
 - Customer and Billing Support
 
 - Responds to patients and walks them through how to access their results and respond to other technical and educational questions they have that pertain to Covid-19 testing.
