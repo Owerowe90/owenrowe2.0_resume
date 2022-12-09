@@ -29,7 +29,7 @@ title: Owen Rowe's Resume
 ## Experience
 
 `October 2021 - August 2022, Rexburg, Idaho`
-### _Student Record and Registration (BYUI)_ 
+### __Student Record and Registration (BYUI)__ 
 - Registration Specialist
 
 - Developed a program using Python that can compile and sort through multiple catalog years of courses for the school and pull out desired information.
@@ -38,7 +38,7 @@ title: Owen Rowe's Resume
 
 
 `October 2020 - March 2021`
-### _Premier Diagnostics_
+### __Premier Diagnostics__
 - Customer and Billing Support
 
 - Responds to patients and walks them through how to access their results and respond to other technical and educational questions they have that pertain to Covid-19 testing.
@@ -46,7 +46,7 @@ title: Owen Rowe's Resume
 
 
 `December 2017 - September 2020`
-### _Mapleton City_
+### __Mapleton City__
 - City League Supervisor
 - 
 - Manages, schedules and trains 50+ high school age and
