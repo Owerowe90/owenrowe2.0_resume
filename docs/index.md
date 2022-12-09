@@ -18,8 +18,7 @@ title: Owen Rowe's Resume
 
 `August 2019-December 2019`
 ### __Utah Valley University__, Orem, UT
-
-General Education
+- General Education
 
 `Expected April 2024`
 ### __Brigham Young University - Idaho__, Rexburg, ID
