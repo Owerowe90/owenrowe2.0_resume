@@ -59,7 +59,7 @@ seasons and sports.
 ## Service
 
 `2019-2020`
-###__Service Missionary__, Philippines
+### __Service Missionary__, Philippines
 
 
 
