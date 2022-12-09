@@ -17,12 +17,12 @@ title: Owen Rowe's Resume
 ## Education
 
 `August 2019-December 2019`
-__Utah Valley University__, Orem, UT
+### __Utah Valley University__, Orem, UT
 
 General Education
 
 `Expected April 2024`
-__Brigham Young University - Idaho__, Rexburg, ID
+### __Brigham Young University - Idaho__, Rexburg, ID
 
 - B.S Computer Science 
 - 3.7 Major GPA
@@ -39,7 +39,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 `October 2020 - March 2021`
-__Premier Diagnostics __
+### __Premier Diagnostics __
 - Customer and Billing Support
 
 - Responds to patients and walks them through how to access their results and respond to other technical and educational questions they have that pertain to Covid-19 testing.
@@ -59,7 +59,7 @@ seasons and sports.
 ## Service
 
 `2019-2020`
-__Service Missionary__, Philippines
+###__Service Missionary__, Philippines
 
 
 
