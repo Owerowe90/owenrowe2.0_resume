@@ -1,14 +1,14 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Owen Rowe's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Owen Rowe
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="www.linkedin.com/in/owen-rowe-33aa481a8">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,74 +16,55 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`August 2019-December 2019`
+__Utah Valley University__, Orem, UT
 
-- Full academic scholarship with 4.0 GPA
+General Education
 
-`Expected 2029`
+`Expected April 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- B.S Computer Science 
+- 3.7 Major GPA
+
+## Experience
+
+`October 2021 - August 2022, Rexburg, Idaho`
+### _Student Record and Registration (BYUI)_ 
+- Registration Specialist
+
+- Developed a program using Python that can compile and sort through multiple catalog years of courses for the school and pull out desired information.
+- Helps instructors and students by troubleshooting issues within the system that are not allowing them to do what they should be able to do.
+- Assisted in updating the requirements for 1,200+ courses in a program called Jenzabar so that future semesters will not have errors.
 
 
-## Related Experience
+`October 2020 - March 2021`
+__Premier Diagnostics __
+- Customer and Billing Support
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Responds to patients and walks them through how to access their results and respond to other technical and educational questions they have that pertain to Covid-19 testing.
+- Searches through a database to find missing insurance information
 
 
-## Service and Work History
+`December 2017 - September 2020`
+### Mapleton City 
+- City League Supervisor
+- 
+- Manages, schedules and trains 50+ high school age and
+younger referees and scorekeepers year-round for all sports
+and seasons.
+- Supervises multiple gyms and fields at the same time for all
+seasons and sports.
 
-`2025-2027`
-__Math Tutor__, LDSBC
+## Service
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2019-2020`
+__Service Missionary__, Philippines
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
