@@ -6,7 +6,7 @@ title: Owen Rowe's Resume
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="row20015@byui.edu">row20015@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="www.linkedin.com/in/owen-rowe-33aa481a8">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -18,8 +18,7 @@ title: Owen Rowe's Resume
 
 `August 2019-December 2019`
 ### __Utah Valley University__, Orem, UT
-
-General Education
+- General Education
 
 `Expected April 2024`
 ### __Brigham Young University - Idaho__, Rexburg, ID
@@ -39,7 +38,7 @@ General Education
 
 
 `October 2020 - March 2021`
-### __Premier Diagnostics __
+### _Premier Diagnostics_
 - Customer and Billing Support
 
 - Responds to patients and walks them through how to access their results and respond to other technical and educational questions they have that pertain to Covid-19 testing.
@@ -47,7 +46,7 @@ General Education
 
 
 `December 2017 - September 2020`
-### Mapleton City 
+### _Mapleton City_
 - City League Supervisor
 - 
 - Manages, schedules and trains 50+ high school age and
@@ -59,7 +58,7 @@ seasons and sports.
 ## Service
 
 `2019-2020`
-###__Service Missionary__, Philippines
+### __Service Missionary__, Philippines
 
 
 
